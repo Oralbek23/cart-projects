@@ -5,7 +5,7 @@
 }
 .container{
     width: 80%;
-    background-color:rgb(238, 235, 235);
+    background-color:rgb(231, 225, 225);
     display: grid;
     grid-template-columns: repeat(auto-fit,minmax(250px,1fr));
     gap: 24px;
@@ -18,7 +18,7 @@
 }
 .card{
     border-radius: 12px;
-    background-color: rgb(192, 189, 189);
+    background-color: rgb(231, 225, 225);
     box-shadow: 0 4px 8px rgba(0,0,0, 0.1);
     padding: 16px;
     display: grid;
